@@ -1,6 +1,6 @@
 # SuperCrawl
 
-SuperCrawl is a set of PHP web-crawlers and web-scrapers to assist in automated datamining.
+SuperCrawl is a set of PHP web-crawlers and web-scrapers to assist in automated datamining. You can find a detailed description of all files and function in the [Wiki](https://github.com/Chippers255/WebCrawler/wiki). 
 
 
 ## Read More
