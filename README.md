@@ -50,6 +50,12 @@ site = http://www.yoursite.com/bash_crawler.php
 * scrape.sh
 
     A bash shell script to run `bash_crawler.php` off screen in a Unix terminal.
+    
+* scrapepage.php
 
-
+    A php script that will scrape a given web-page for email addresses and echo the results
+    
 ## Changes
+
+* October 2, 2013 - Added all used/messy code for web-crawling and web-scraping
+                  - Added single web-page email scraper
